@@ -16,8 +16,10 @@
 
 ## 🛠️ Tech Stack   
 
-<table><tr><td valign="top" width="33%">   
+<table><tr><td valign="top" width="33%">  
+    
 ### Frontend   
+    
 <div align="center">   
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>   
@@ -65,8 +67,8 @@
 
 ## ⚙️ Github Analytics   
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>    
+<div><img src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" float="left" /></div>    
 <br/>    
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" float:"right" /></div>  
 <br/> 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" align="center" /> </div>       
