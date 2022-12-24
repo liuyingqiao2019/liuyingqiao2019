@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://tangmenjue.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=liuyingqiao2019" alt="访客统计" />
+  <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" alt="访客统计" />
 </div>
   
 # <div align="center">👋 Hey！I'm Tangmenjue</div>   
