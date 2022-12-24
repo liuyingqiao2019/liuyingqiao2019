@@ -1,7 +1,13 @@
 <div align="center">
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> 
 </div>       
-
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://tangmenjue.top/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=liuyingqiao2019" alt="访客统计" />
+</div>
+  
 # <div align="center">👋 Hey！I'm Tangmenjue</div>   
 
 ## 🐱 About Me    
@@ -72,6 +78,5 @@
 
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=e0ffff&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=87cefa&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=e0ffff&theme=graywhite" />
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" align="center" /> </div> 
