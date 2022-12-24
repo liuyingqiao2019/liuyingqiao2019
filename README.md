@@ -68,7 +68,7 @@
 ## ⚙️ Github Analytics   
 <div>
     <div style="position:absolute;left:0px;"><img src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div>  
-    <div style="position:absolute;right:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div>
+    <div style="position:absolute;right:0px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div>
     <br/> 
     <div align="center"> <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" align="center" /></div>       
 </div>
