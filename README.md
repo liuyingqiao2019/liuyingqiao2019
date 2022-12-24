@@ -2,7 +2,7 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> 
 </div>       
 
-# <div align="center">👋 Hey！I'm Tangjue</div>   
+# <div align="center">👋 Hey！I'm Liuyingqiao2019</div>   
 
 ## 🐱 About Me    
 
@@ -69,6 +69,6 @@
 
 <div style="float:left"><img src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>    
 <br/>    
-<div style="float:right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div style="float:left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 <br/> 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" align="center" /> </div>       
