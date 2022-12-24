@@ -69,7 +69,7 @@
 <div>
     <div style="float: left"><img src="https://github-readme-stats.vercel.app/api?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div> 
     <br/>    
-    <div style="float: left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div>  
+    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" /></div>  
     <br/> 
     <div align="center"> <img src="https://komarev.com/ghpvc/?username=liuyingqiao2019&&style=flat-square" align="center" /> </div>       
 </div>
