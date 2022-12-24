@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 19 * * *'
 
@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: liuyingqiao2019/liuyingqiao2019@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
