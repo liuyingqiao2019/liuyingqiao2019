@@ -38,7 +38,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
 </div>  
 
-</td><td valign="top" width="25%">    
+</td><td valign="top" width="40%">    
 
 ### Backend   
 
@@ -56,7 +56,7 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>   
 </div>  
 
-</td><td valign="top" width="35%">    
+</td><td valign="top" width="20%">    
     
 ### DevOps   
 
