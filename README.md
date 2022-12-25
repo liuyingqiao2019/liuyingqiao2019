@@ -81,6 +81,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyingqiao2019&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=e0ffff&theme=graywhite" />
 </div>
 
+#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 
 ```text
