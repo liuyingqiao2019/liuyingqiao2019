@@ -83,9 +83,75 @@
 
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 157 Contributions in the Year 2022
+ > 
+> 📦 228.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-No activity tracked
+🌞 Morning    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+🌆 Daytime    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+🌃 Evening    41 commits     ██████████████░░░░░░░░░░░   56.16% 
+🌙 Night      19 commits     ██████░░░░░░░░░░░░░░░░░░░   26.03%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+Friday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+Saturday     40 commits     █████████████░░░░░░░░░░░░   54.79% 
+Sunday       25 commits     ████████░░░░░░░░░░░░░░░░░   34.25%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+MATLAB                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+
+ Last Updated on 25/12/2022 01:00:32 UTC
 <!--END_SECTION:waka-->
