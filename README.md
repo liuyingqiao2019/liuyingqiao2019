@@ -83,7 +83,7 @@
 
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -157,5 +157,5 @@ C++                      1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 11/02/2023 01:15:15 UTC
+ Last Updated on 12/02/2023 01:24:09 UTC
 <!--END_SECTION:waka-->
