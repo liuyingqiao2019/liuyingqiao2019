@@ -83,7 +83,7 @@
 
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -154,5 +154,5 @@ Vue                      1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 04/03/2023 01:18:03 UTC
+ Last Updated on 05/03/2023 01:37:48 UTC
 <!--END_SECTION:waka-->
