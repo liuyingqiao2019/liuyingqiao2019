@@ -1,16 +1,15 @@
-name: Profile Readme Development Stats
+name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:    
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    # Runs at 12am IST
-    - cron: '0 0 * * *'
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@V3
@@ -22,4 +21,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           SYMBOL_VERSION: 3
-            
